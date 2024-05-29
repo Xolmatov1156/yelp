@@ -1,4 +1,4 @@
-# Welcome to My Yelp
+# Welcome to Yelp
 
 I completed the yelp project.
 It was difficult, but with the help of our friends and the knowledge and experience we learned,
@@ -16,7 +16,7 @@ This project store all data on 'firebases' firestore and firedatabase
 ## Installation
 
 1. download the project from github it is better to download from there
-   link: `https://github.com/devbro01/yelp-master`
+   link: `https://github.com/Xolmatov1156/yelp`
 
 ## Usage
 
@@ -28,4 +28,4 @@ This project store all data on 'firebases' firestore and firedatabase
 ### The Core Team
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
+<span><img alt='Qwasar SV -- Software Engineering School's Logo src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
